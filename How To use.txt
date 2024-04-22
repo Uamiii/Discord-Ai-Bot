@@ -1,0 +1,10 @@
+Make sure to insert:
+- OpenAi Token
+- Discord Bot Token
+
+How To Start:
+- Start discord_bot.py
+
+Packages To Install:
+- pip install openai
+- pip install discord
